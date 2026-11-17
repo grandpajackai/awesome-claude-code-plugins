@@ -401,6 +401,7 @@ Community-maintained plugin marketplaces you can add to access additional plugin
 
 ## Resources
 - [Claudebin](https://claudebin.com) ([GitHub](https://github.com/wunderlabs-dev/claudebin.com/)) - A minimalistic tool for publishing and sharing Claude coding sessions.
+- [SkillMaxx](https://skillmaxx.gilventures.ai/) - Free directory of Claude Code plugins, skills and MCP servers, install-tested nightly in a clean sandbox (also Codex, Cursor, Grok Build and Pi), with pass/fail per agent.
 
 ## Tutorials
 
